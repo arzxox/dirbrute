@@ -40,8 +40,8 @@ python dirbrute.py -u http://example.com -w wordlist.txt
 ```
 
 ## Optional Arguments
--x, --ext      -     Add file extension (e.g. php, html)
--t, --threads  -     Number of threads (default: 20)
+- -x, --ext      -     Add file extension (e.g. php, html)
+- -t, --threads  -     Number of threads (default: 20)
 
 ## Example with extension:
 ```bash
